@@ -1,3 +1,4 @@
+# Personal Information
 
 My name is Jessica Cramb, I am originally from Sydney and moved up to Brisbane around 13 years ago. I am of Australian Aboriginal decent, with my mother being from the Monaro Ngarigo tribe and my father being from the Biripi tribe. Whilst we do still speak a few words in our language, it is unfortunately not enough to pull together full sentences.
 
@@ -12,3 +13,8 @@ Jessica Cramb
 Student Number: S3813728
 
 Email: S3813728@student.rmit.edu.au
+
+
+# Interests in IT
+
+Lorem ipsum
