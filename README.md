@@ -1,6 +1,6 @@
-# Welcome to GitHub
+# Sub Branch first attempt
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+This is my first attempt to work with a sub branch in Githubs... lets see if I can figure this thing out!
 
 ## Repositories
 
